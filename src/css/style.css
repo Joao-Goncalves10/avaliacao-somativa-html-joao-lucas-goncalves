@@ -1,0 +1,30 @@
+body {
+    background-color: #f1f8ff;
+}
+h1{
+    text-align: center;
+}
+h2{
+    color: #013568;
+    text-align: center;
+}
+h3{
+    color:#235c94
+}
+aside{
+    text-align: right;
+}
+h2 #Guia{
+    text-align: right;
+}
+
+table {
+    border: 1px solid #3770a8;
+    background-color: #8bafd4;
+    width: 400px;
+}
+td{
+    padding: 6px; text-align: center;
+    background-color: #e9f4ff;
+    border: 1px solid #3770a8;
+}
